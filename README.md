@@ -151,7 +151,7 @@ final_output.wrl
 ## Files
 
 ```text
-hokan_sakugen2.py
+framework.py
 ```
 
 プロジェクト全体の処理を統合したPythonファイルです。
